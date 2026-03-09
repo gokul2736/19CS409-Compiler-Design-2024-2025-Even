@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bed54706-f4ea-4b5c-b6f3-58ac4f4f63c8" />## Compiler Design- All Exps
+## Compiler Design- All Exps
 
 ### Ex. No : 1	IMPLEMENTATION OF SYMBOL TABLE  
 ### Ex. No : 2  GENERATION OF LEXICAL TOKENS LEX/FLEX TOOL
